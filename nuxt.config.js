@@ -2,7 +2,7 @@
 export default {
   mode: 'spa',
   router: {
-     base: '/nuxt-gh-pages/'
+     base: '/nuxt_portfolio/'
    },
   /*
   ** Headers of the page
